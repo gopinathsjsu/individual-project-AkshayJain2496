@@ -14,5 +14,5 @@ Install  Java, Maven and JDK  in your system and set the path variables appropri
 2. Paste the "Input.csv" inside the Indiviual_project_202 folder
 3. Run the command - mvn compile <br/>
 4. Run the command - mvn clean install <br/>
-5. Run the command - mvn -X clean install exec:java -Dexec.mainClass="com.Indiviual_project_202.ReadCsv" -Dexec.args="Input.csv"
+5. Run the command - mvn -X clean install exec:java -Dexec.mainClass="com.Inventory.ReadCsv" -Dexec.args="Input.csv"
 6. You will be able to see the outputs generated in Indiviual_project_202\src\main\resources\input
