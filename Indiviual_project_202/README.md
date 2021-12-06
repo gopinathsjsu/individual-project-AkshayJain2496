@@ -1,4 +1,4 @@
-# ShoppingCartJava
+
 
 ## CMPE 202 Individual Assignment
 Name: Akshay  Jain <br/>
